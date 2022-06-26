@@ -7,6 +7,7 @@
 - 🧰 Senior [Technical Account Manager](https://about.gitlab.com/handbook/customer-success/tam/segment/strategic/) at [@GitLab](https://twitter.com/gitlab)
   - 🌩️ former CSO [@clever_cloud](https://twitter.com/clever_cloud)
   - :octocat: former SE [@github](https://twitter.com/github)
+- Polywork: https://www.polywork.com/k33g
 - LinkedIn: https://www.linkedin.com/in/phcharriere/
 - **I wrote a book on WebAssembly**: [https://k33g.github.io/](https://wasm.cooking/)
 
