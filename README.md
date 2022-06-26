@@ -2,11 +2,11 @@
 
 - 🐦 Twitter: [@k33g_org](https://twitter.com/k33g_org)
 - 🦊 GitLab profile: https://gitlab.com/k33g
-- 🦸 Community Hero @gitpod 🚀 
-- Core committer @golo_lang
-- 🧰 Senior [Technical Account Manager](https://about.gitlab.com/handbook/customer-success/tam/segment/strategic/) at GitLab
-  - 🌩️ former CSO @clever_cloud
-  - :octocat: former SE @github
+- 🦸 Community Hero [@gitpod](https://twitter.com/gitpod) 🚀 
+- Core committer [@golo_lang](https://twitter.com/golo_lang)
+- 🧰 Senior [Technical Account Manager](https://about.gitlab.com/handbook/customer-success/tam/segment/strategic/) at [@GitLab](https://twitter.com/gitlab)
+  - 🌩️ former CSO [@clever_cloud](https://twitter.com/clever_cloud)
+  - :octocat: former SE [@github](https://twitter.com/github)
 - LinkedIn: https://www.linkedin.com/in/phcharriere/
 - **I wrote a book on WebAssembly**: [https://k33g.github.io/](https://wasm.cooking/)
 
