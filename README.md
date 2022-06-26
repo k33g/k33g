@@ -4,6 +4,7 @@
 - 🦊 GitLab profile: https://gitlab.com/k33g
 - 🦸 Community Hero [@gitpod](https://twitter.com/gitpod) 🚀 
 - Core committer [@golo_lang](https://twitter.com/golo_lang)
+- Co-leader of GDG Cloud IOT Lyon and RdV des speakers
 - 🧰 Senior [Technical Account Manager](https://about.gitlab.com/handbook/customer-success/tam/segment/strategic/) at [@GitLab](https://twitter.com/gitlab)
   - 🌩️ former CSO [@clever_cloud](https://twitter.com/clever_cloud)
   - :octocat: former SE [@github](https://twitter.com/github)
