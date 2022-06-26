@@ -5,6 +5,8 @@
 - 🦸 Community Hero @gitpod 🚀 
 - Core committer @golo_lang
 - 🧰 Senior [Technical Account Manager](https://about.gitlab.com/handbook/customer-success/tam/segment/strategic/) at GitLab
+  - 🌩️ former CSO @clever_cloud
+  - :octocat: former SE @github
 - LinkedIn: 
 - **I wrote a book on WebAssembly**: [https://k33g.github.io/](https://wasm.cooking/)
 
