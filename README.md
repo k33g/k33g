@@ -9,7 +9,7 @@
   - :octocat: former SE [@github](https://twitter.com/github)
 - Polywork: https://www.polywork.com/k33g
 - LinkedIn: https://www.linkedin.com/in/phcharriere/
-- **I wrote a book on WebAssembly**: [https://k33g.github.io/](https://wasm.cooking/)
+- 📘 **I wrote a book on WebAssembly**: [https://k33g.github.io/](https://wasm.cooking/)
 
 ### Blog posts
 
