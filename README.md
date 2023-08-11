@@ -2,6 +2,8 @@
 
 - 🐦 Twitter: [@k33g_org](https://twitter.com/k33g_org)
 - 🦊 **GitLab profile: https://gitlab.com/k33g**
+- 🦊 Senior CSE and Strategic CSM at GitLab
+- ☸️ [Civo](https://www.civo.com/) Ambassador
 - 🦸 Community Hero [@gitpod](https://twitter.com/gitpod) 🚀 
 - Core committer [@golo_lang](https://twitter.com/golo_lang)
 - Co-leader of GDG Cloud IOT Lyon and RdV des speakers
