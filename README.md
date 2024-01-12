@@ -1,13 +1,14 @@
 ### @k33g 🏠
 
 - 🐦 Twitter: [@k33g_org](https://twitter.com/k33g_org)
+- 🐳 Senior Solution Architect at Docker
 - 🦊 **GitLab profile: https://gitlab.com/k33g**
-- 🦊 Senior CSE and Strategic CSM at GitLab
+- 🦊 Former Senior CSE and Strategic CSM at GitLab
 - ☸️ [Civo](https://www.civo.com/) Ambassador
 - 🦸 Community Hero [@gitpod](https://twitter.com/gitpod) 🚀 
 - Core committer [@golo_lang](https://twitter.com/golo_lang)
 - Co-leader of GDG Cloud IOT Lyon and RdV des speakers
-- 🧰 **Senior [Customer Success Engineer]([https://about.gitlab.com/handbook/customer-success/tam/segment/strategic/](https://about.gitlab.com/handbook/customer-success/csm/cse/)) at [@GitLab](https://twitter.com/gitlab)**
+- 🧰 Former Senior [Customer Success Engineer]([https://about.gitlab.com/handbook/customer-success/tam/segment/strategic/](https://about.gitlab.com/handbook/customer-success/csm/cse/)) at [@GitLab](https://twitter.com/gitlab)
   - 🌩️ former CSO [@clever_cloud](https://twitter.com/clever_cloud)
   - :octocat: former SE [@github](https://twitter.com/github)
 - **LinkedIn: https://www.linkedin.com/in/phcharriere/**
