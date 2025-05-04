@@ -1,7 +1,7 @@
 ### @k33g 🏠
 
 - 🐦 Twitter: [@k33g_org](https://twitter.com/k33g_org)
-- 🐳 **Senior Solution Architect at Docker**
+- 🐳 **Principal Solution Architect at Docker**
 - 🦊 GitLab profile: https://gitlab.com/k33g
 - ☸️ [Civo](https://www.civo.com/) Ambassador
 - 🦸 Community Hero [@gitpod](https://twitter.com/gitpod) 🚀 
